@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ivHouse" type="id" />
+    <item name="tvHouseDetail" type="id" />
+    <item name="tvPriceTag" type="id" />
+</resources>
